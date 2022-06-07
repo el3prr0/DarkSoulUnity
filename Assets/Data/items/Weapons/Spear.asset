@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemIcon: {fileID: 0}
   itemName: Spear
-  modelPrefab: {fileID: 145458, guid: 965e8c69e3da8c148b93ef252f7257d5, type: 3}
+  modelPrefab: {fileID: 6551675250845403070, guid: 5af3a87ea823c0542af02d558920bd81, type: 3}
   isUnarmed: 0
   type: 2
   oh_Light_Attack_01: Spear-Attack-R1
@@ -22,8 +22,8 @@ MonoBehaviour:
   Heavy_Attack: Spear-Attack-R3
   oh_Light_Jumping_Attack: 
   Dual_Attack: 
-  Block: 
-  Dual_Block: 
+  Block: 2Hand-Sword-Block
+  Dual_Block: Block-Dual
   Left_Attack: 
   right_Hand_Idle: Right_Arm_Idle_01
   left_Hand_Idle: Left_Arm_Idle_01

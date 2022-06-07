@@ -179,7 +179,7 @@ public class PlayerLocomotion : MonoBehaviour
 
         if (inputManager.moveAmount > 0)
         {
-            animatorManager.PlayTargetAnimation("Rolling", true);
+            animatorManager.PlayTargetAnimation("Rolling", true,true);
         }
 
 

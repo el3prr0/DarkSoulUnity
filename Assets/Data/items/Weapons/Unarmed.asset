@@ -24,6 +24,9 @@ MonoBehaviour:
   Dual_Attack: Unarmed-Attack-L1
   Block: Block
   Dual_Block: Block
-  Left_Attack: 
+  Left_Attack: Unarmed-Attack-L1
   right_Hand_Idle: Right Arm Empty
   left_Hand_Idle: Left Arm Empty
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
